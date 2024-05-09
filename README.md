@@ -25,3 +25,7 @@ datasource db {
 O parâmetro `url` é responsável pela conexão com o banco de dados, crie uma variável local .env no diretório raiz do projeto, lá deverá ser passada o local do banco de dados(dev.db), seu arquivo deve ser parecido com esse:
 
 `DATABASE_URL="file:./dev.db"` 
+
+Gere o cliente do Prisma com: `npx prisma generate`
+
+Execute as migrações com `npx prisma migrate dev`
