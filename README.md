@@ -1,8 +1,6 @@
-# Sync 360 BACKEND
+# Olá
 
-## Introdução
-
-Caro recrutador, obrigado pela oportunidade de estar nesse processo seletivo. Esse readme foi criado com o intuíto de instruir sobre como manipular o projeto criado, facilitando assim sua instalação.
+## CRUD Simples com Node e Express
 
 Link do frontend: https://github.com/HerbertCarvalhoxxi/360-frontend
 
